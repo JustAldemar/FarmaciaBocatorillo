@@ -116,10 +116,5 @@ Se añadió autenticación de clientes con registro desde la misma pantalla de l
 
 ---
 
-## 📜 Licencia
-Indica aquí la licencia del proyecto (ejemplo: MIT) o las condiciones de uso que apliquen.
-
----
-
 ## 👨‍💻 Créditos
 Proyecto basado en un sistema de farmacia en PHP y MySQL (MVC) con personalizaciones para login/registro de clientes y panel dedicado de compras.
