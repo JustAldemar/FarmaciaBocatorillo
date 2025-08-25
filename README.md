@@ -114,7 +114,3 @@ Se añadió autenticación de clientes con registro desde la misma pantalla de l
 - **Sesiones:** verificar `session.save_path` y permisos de carpeta.  
 - **Rutas:** confirmar `DocumentRoot` y URLs relativas.  
 
----
-
-## 👨‍💻 Créditos
-Proyecto basado en un sistema de farmacia en PHP y MySQL (MVC) con personalizaciones para login/registro de clientes y panel dedicado de compras.
